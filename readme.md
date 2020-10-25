@@ -8,4 +8,4 @@ Build using ReactJs,Javascript,HTML,CSS and the backend is equipped with Google 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-Visit the link given in index file.
+Visit the link given in index file .
