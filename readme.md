@@ -6,6 +6,6 @@ My-burger app is a fun SPA (Single Page Application) to build and order a burger
 Technologies used: 
 Build using ReactJs,Javascript,HTML,CSS and the backend is equipped with Google Firebase.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-
+Visit the link given in index file
